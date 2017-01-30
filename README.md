@@ -1,2 +1,2 @@
-# guatemala_atlas
-Typological atlas of Guatemala
+# Typological atlas of Guatemala
+
