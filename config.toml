@@ -1,0 +1,6 @@
+baseurl = "https://sasha-kozhukhar.github.io/guatemala_atlas/"
+title = "Atlas of Mayan languages of Guatemala"
+languageCode = "en-us"
+publishDir = "docs"
+theme = "hugo_theme_beg"
+
