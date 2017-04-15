@@ -1,5 +1,5 @@
 baseurl = "https://sasha-kozhukhar.github.io/guatemala_atlas/"
-title = "Atlas of Mayan languages of Guatemala"
+title = "Atlas of languages of Guatemala"
 languageCode = "en-us"
 publishDir = "docs"
 theme = "twentyfourteen"
