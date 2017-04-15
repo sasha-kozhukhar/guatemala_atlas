@@ -12,7 +12,7 @@ categories = ["Agent Focus"]
 </head>
 
 <body>
-<div class="padding">
+<div>
 <iframe src="http://maps-for-sasha.hol.es/maps/af-context.html" width = "100%" height = "600px"></iframe>
 <div align="right"><a href="http://maps-for-sasha.hol.es/maps/af-context.html" target="_blank" class="button">fullscreen</a></div>
 </div>
