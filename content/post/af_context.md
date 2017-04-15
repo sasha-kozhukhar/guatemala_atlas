@@ -1,6 +1,7 @@
 +++
-title = "Agent Focuse Context"
+title = "Agent Focus Context"
 categories = ["Agent Focus"]
+slug = "agentfocus_context"
 
 +++
 <head>

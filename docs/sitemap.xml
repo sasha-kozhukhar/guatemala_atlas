@@ -10,7 +10,11 @@
   </url>
   
   <url>
-    <loc>https://sasha-kozhukhar.github.io/guatemala_atlas/post/af_context/</loc>
+    <loc>https://sasha-kozhukhar.github.io/guatemala_atlas/post/agentfocus/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sasha-kozhukhar.github.io/guatemala_atlas/post/agentfocus_context/</loc>
   </url>
   
   <url>
@@ -19,6 +23,14 @@
   
   <url>
     <loc>https://sasha-kozhukhar.github.io/guatemala_atlas/post/setA/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sasha-kozhukhar.github.io/guatemala_atlas/post/setB/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sasha-kozhukhar.github.io/guatemala_atlas/post/setB_zero/</loc>
   </url>
   
 </urlset>

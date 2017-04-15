@@ -9,11 +9,34 @@
     <atom:link href="https://sasha-kozhukhar.github.io/guatemala_atlas/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Agent Focuse Context</title>
-      <link>https://sasha-kozhukhar.github.io/guatemala_atlas/post/af_context/</link>
+      <title>Agent Focus</title>
+      <link>https://sasha-kozhukhar.github.io/guatemala_atlas/post/agentfocus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sasha-kozhukhar.github.io/guatemala_atlas/post/af_context/</guid>
+      <guid>https://sasha-kozhukhar.github.io/guatemala_atlas/post/agentfocus/</guid>
+      <description>&lt;p&gt;&lt;head&gt;
+&lt;style type=&#34;text/css&#34;&gt;
+    .padding {
+        padding: 30px;
+    }
+&lt;/style&gt;
+&lt;/head&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;body&gt;
+&lt;div&gt;
+&lt;iframe src=&#34;https://sasha-kozhukhar.github.io/guatemala_atlas/maps/agent-focus.html&#34; width = &#34;100%&#34; height = &#34;600px&#34;&gt;&lt;/iframe&gt;
+&lt;div align=&#34;right&#34;&gt;&lt;a href=&#34;https://sasha-kozhukhar.github.io/guatemala_atlas/maps/agent-focus.html&#34; target=&#34;_blank&#34; class=&#34;button&#34;&gt;fullscreen&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/body&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Agent Focus Context</title>
+      <link>https://sasha-kozhukhar.github.io/guatemala_atlas/post/agentfocus_context/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sasha-kozhukhar.github.io/guatemala_atlas/post/agentfocus_context/</guid>
       <description>&lt;p&gt;&lt;head&gt;
 &lt;style type=&#34;text/css&#34;&gt;
     .padding {
@@ -32,7 +55,7 @@
     </item>
     
     <item>
-      <title>Clusivity distinction</title>
+      <title>Clusivity</title>
       <link>https://sasha-kozhukhar.github.io/guatemala_atlas/post/clusivity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -46,9 +69,7 @@
 &lt;/head&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;body&gt;
-&lt;h1&gt;
 Clusivity distinction in first person plural pronouns
-&lt;/h1&gt;
 &lt;div class=&#34;padding&#34;&gt;
 &lt;iframe src=&#34;https://sasha-kozhukhar.github.io/guatemala_atlas/maps/clusiveness.html&#34; width = &#34;100%&#34; height = &#34;600px&#34;&gt;&lt;/iframe&gt;
 &lt;div align=&#34;right&#34;&gt;&lt;a href=&#34;https://sasha-kozhukhar.github.io/guatemala_atlas/maps/clusiveness.html&#34; target=&#34;_blank&#34; class=&#34;button&#34;&gt;fullscreen&lt;/a&gt;&lt;/div&gt;
@@ -58,7 +79,7 @@ Clusivity distinction in first person plural pronouns
     </item>
     
     <item>
-      <title>set A pronouns</title>
+      <title>Set A Pronouns</title>
       <link>https://sasha-kozhukhar.github.io/guatemala_atlas/post/setA/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -72,12 +93,56 @@ Clusivity distinction in first person plural pronouns
 &lt;/head&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;body&gt;
-&lt;h1&gt;
 Position of the set A cross-reference pronouns
-&lt;/h1&gt;
 &lt;div class=&#34;padding&#34;&gt;
 &lt;iframe src=&#34;https://sasha-kozhukhar.github.io/guatemala_atlas/maps/setA_position.html&#34; width = &#34;100%&#34; height = &#34;600px&#34;&gt;&lt;/iframe&gt;
 &lt;div align=&#34;right&#34;&gt;&lt;a href=&#34;https://sasha-kozhukhar.github.io/guatemala_atlas/maps/setA_position.html&#34; target=&#34;_blank&#34; class=&#34;button&#34;&gt;fullscreen&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/body&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Set B Pronouns</title>
+      <link>https://sasha-kozhukhar.github.io/guatemala_atlas/post/setB/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sasha-kozhukhar.github.io/guatemala_atlas/post/setB/</guid>
+      <description>&lt;p&gt;&lt;head&gt;
+&lt;style type=&#34;text/css&#34;&gt;
+    .padding {
+        padding: 30px;
+    }
+&lt;/style&gt;
+&lt;/head&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;body&gt;
+&lt;div&gt;
+&lt;iframe src=&#34;https://sasha-kozhukhar.github.io/guatemala_atlas/maps/setB_position.html&#34; width = &#34;100%&#34; height = &#34;600px&#34;&gt;&lt;/iframe&gt;
+&lt;div align=&#34;right&#34;&gt;&lt;a href=&#34;https://sasha-kozhukhar.github.io/guatemala_atlas/maps/setB_position.html&#34; target=&#34;_blank&#34; class=&#34;button&#34;&gt;fullscreen&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/body&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Zero Affixes in Set B</title>
+      <link>https://sasha-kozhukhar.github.io/guatemala_atlas/post/setB_zero/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sasha-kozhukhar.github.io/guatemala_atlas/post/setB_zero/</guid>
+      <description>&lt;p&gt;&lt;head&gt;
+&lt;style type=&#34;text/css&#34;&gt;
+    .padding {
+        padding: 30px;
+    }
+&lt;/style&gt;
+&lt;/head&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;body&gt;
+&lt;div&gt;
+&lt;iframe src=&#34;https://sasha-kozhukhar.github.io/guatemala_atlas/maps/setB_zero_values.html&#34; width = &#34;100%&#34; height = &#34;600px&#34;&gt;&lt;/iframe&gt;
+&lt;div align=&#34;right&#34;&gt;&lt;a href=&#34;https://sasha-kozhukhar.github.io/guatemala_atlas/maps/setB_zero_values.html&#34; target=&#34;_blank&#34; class=&#34;button&#34;&gt;fullscreen&lt;/a&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/body&gt;&lt;/p&gt;
 </description>
