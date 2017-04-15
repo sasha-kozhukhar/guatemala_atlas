@@ -1,0 +1,33 @@
+		</div><!-- #main -->
+
+		<footer id="colophon" class="site-footer" role="contentinfo">
+
+			<div class="site-info">
+				<div align="center">
+				Powered by <a href="http://gohugo.io">Hugo</a> &bull; 2017 <br> 
+				<a href="https://github.com/sasha-kozhukhar">Alexandra Kozhukhar</a> &bull; <a href="https://github.com/lizushka">Elizaveta Vostokova</a>
+				</div>
+			</div><!-- .site-info -->
+		</footer><!-- #colophon -->
+	</div><!-- #page -->
+
+	<script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
+	<script type='text/javascript' src='{{ .Site.BaseURL }}/js/functions.js'></script>
+	<script language="javascript">
+    $(function() {$(".hiddenvalues").hide()});
+    $(".unhidevalues").click(function() {
+    	var $this = $(this);
+        $this.next('.hiddenvalues').toggle();
+        $this.toggleClass("expanded");
+
+        if ($this.hasClass("expanded")) {
+            $this.html("[−]");
+        } else {
+            $this.html("[+]");
+        }
+    });
+    $("#unhideall").click(function() {$('.hiddenvalues').show()})
+    $("#hideall").click(function() {$('.hiddenvalues').hide()})
+</script>
+</body>
+</html>
