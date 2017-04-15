@@ -2,7 +2,7 @@
 
 <html lang="en-us">
 <head>
-	<meta name="generator" content="Hugo 0.17" />
+	<meta name="generator" content="Hugo 0.18.1" />
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width">
 	<title>Atlas of languages of Guatemala</title>
@@ -132,6 +132,15 @@
 		</li>
 
 		
+		
+		<li class="cat-item">
+			<a href="https://sasha-kozhukhar.github.io/guatemala_atlas//categories/pronouns">Pronouns</a>&emsp;<a class="unhidevalues">[+]</a>
+			<ul class="hiddenvalues"> <li><a href="/guatemala_atlas/post/clusivity/">Clusivity distinction</a></li>
+    <li><a href="/guatemala_atlas/post/setA/">set A pronouns</a></li>
+   </ul>
+		</li>
+
+		
 
 	</ul>
 </aside>
@@ -149,8 +158,8 @@
 
 			<div class="site-info">
 				<div align="center">
-				Powered by <a href="http://gohugo.io">Hugo</a> &bull; Created for Laboratory of East-Caucasian languages &bull; 2016 <br>
-				Support from the Basic Research Program of the National Research University Higher School of Economics is gratefully acknowledged.
+				Powered by <a href="http://gohugo.io">Hugo</a> &bull; 2017 <br>
+				<a href="https://github.com/sasha-kozhukhar">Alexandra Kozhukhar</a> &bull; <a href="https://github.com/lizushka">Elizaveta Vostokova</a>
 				</div>
 			</div>
 		</footer>
@@ -162,6 +171,21 @@
     $(function() {$(".hiddenvalues").hide()});
     $(".unhidevalues").click(function() {
     	var $this = $(this);
+        $this.next('.hiddenvalues').toggle();
+        $this.toggleClass("expanded");
+
+        if ($this.hasClass("expanded")) {
+            $this.html("[−]");
+        } else {
+            $this.html("[+]");
+        }
+    });
+    $("#unhideall").click(function() {$('.hiddenvalues').show()})
+    $("#hideall").click(function() {$('.hiddenvalues').hide()})
+</script>
+</body>
+</html>
+$this = $(this);
         $this.next('.hiddenvalues').toggle();
         $this.toggleClass("expanded");
 

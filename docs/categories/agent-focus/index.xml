@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Atlas of languages of Guatemala</title>
+    <title>Agent Focus on Atlas of languages of Guatemala</title>
     <link>https://sasha-kozhukhar.github.io/guatemala_atlas/categories/agent-focus/index.xml</link>
-    <description>Recent content on Atlas of languages of Guatemala</description>
+    <description>Recent content in Agent Focus on Atlas of languages of Guatemala</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <atom:link href="https://sasha-kozhukhar.github.io/guatemala_atlas/categories/agent-focus/index.xml" rel="self" type="application/rss+xml" />
@@ -23,7 +23,7 @@
 &lt;/head&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;body&gt;
-&lt;div class=&#34;padding&#34;&gt;
+&lt;div&gt;
 &lt;iframe src=&#34;http://maps-for-sasha.hol.es/maps/af-context.html&#34; width = &#34;100%&#34; height = &#34;600px&#34;&gt;&lt;/iframe&gt;
 &lt;div align=&#34;right&#34;&gt;&lt;a href=&#34;http://maps-for-sasha.hol.es/maps/af-context.html&#34; target=&#34;_blank&#34; class=&#34;button&#34;&gt;fullscreen&lt;/a&gt;&lt;/div&gt;
 &lt;/div&gt;

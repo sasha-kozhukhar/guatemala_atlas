@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Post-rsses on Atlas of languages of Guatemala</title>
+    <title>Posts on Atlas of languages of Guatemala</title>
     <link>https://sasha-kozhukhar.github.io/guatemala_atlas/post/index.xml</link>
-    <description>Recent content in Post-rsses on Atlas of languages of Guatemala</description>
+    <description>Recent content in Posts on Atlas of languages of Guatemala</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <atom:link href="https://sasha-kozhukhar.github.io/guatemala_atlas/post/index.xml" rel="self" type="application/rss+xml" />
@@ -23,9 +23,61 @@
 &lt;/head&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;body&gt;
-&lt;div class=&#34;padding&#34;&gt;
+&lt;div&gt;
 &lt;iframe src=&#34;http://maps-for-sasha.hol.es/maps/af-context.html&#34; width = &#34;100%&#34; height = &#34;600px&#34;&gt;&lt;/iframe&gt;
 &lt;div align=&#34;right&#34;&gt;&lt;a href=&#34;http://maps-for-sasha.hol.es/maps/af-context.html&#34; target=&#34;_blank&#34; class=&#34;button&#34;&gt;fullscreen&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/body&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Clusivity distinction</title>
+      <link>https://sasha-kozhukhar.github.io/guatemala_atlas/post/clusivity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sasha-kozhukhar.github.io/guatemala_atlas/post/clusivity/</guid>
+      <description>&lt;p&gt;&lt;head&gt;
+&lt;style type=&#34;text/css&#34;&gt;
+    .padding {
+        padding: 30px;
+    }
+&lt;/style&gt;
+&lt;/head&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;body&gt;
+&lt;h1&gt;
+Clusivity distinction in first person plural pronouns
+&lt;/h1&gt;
+&lt;div class=&#34;padding&#34;&gt;
+&lt;iframe src=&#34;http://maps-for-sasha.hol.es/maps/clusiveness.html&#34; width = &#34;100%&#34; height = &#34;600px&#34;&gt;&lt;/iframe&gt;
+&lt;div align=&#34;right&#34;&gt;&lt;a href=&#34;http://maps-for-sasha.hol.es/maps/clusiveness.html&#34; target=&#34;_blank&#34; class=&#34;button&#34;&gt;fullscreen&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/body&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>set A pronouns</title>
+      <link>https://sasha-kozhukhar.github.io/guatemala_atlas/post/setA/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sasha-kozhukhar.github.io/guatemala_atlas/post/setA/</guid>
+      <description>&lt;p&gt;&lt;head&gt;
+&lt;style type=&#34;text/css&#34;&gt;
+    .padding {
+        padding: 30px;
+    }
+&lt;/style&gt;
+&lt;/head&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;body&gt;
+&lt;h1&gt;
+Position of the set A cross-reference pronouns
+&lt;/h1&gt;
+&lt;div class=&#34;padding&#34;&gt;
+&lt;iframe src=&#34;http://maps-for-sasha.hol.es/maps/setA_position.html&#34; width = &#34;100%&#34; height = &#34;600px&#34;&gt;&lt;/iframe&gt;
+&lt;div align=&#34;right&#34;&gt;&lt;a href=&#34;http://maps-for-sasha.hol.es/maps/setA_position.html&#34; target=&#34;_blank&#34; class=&#34;button&#34;&gt;fullscreen&lt;/a&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/body&gt;&lt;/p&gt;
 </description>
