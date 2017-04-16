@@ -24,9 +24,33 @@
 
 &lt;p&gt;&lt;body&gt;
 &lt;div class=&#34;padding&#34;&gt;
-&lt;iframe src=&#34;https://sasha-kozhukhar.github.io/guatemala_atlas/maps/guatemala.html&#34; width = &#34;100%&#34; height = &#34;600px&#34;&gt;&lt;/iframe&gt;
-&lt;div align=&#34;right&#34;&gt;&lt;a href=&#34;https://sasha-kozhukhar.github.io/guatemala_atlas/maps/guatemala.html&#34; target=&#34;_blank&#34; class=&#34;button&#34;&gt;fullscreen&lt;/a&gt;&lt;/div&gt;
-&lt;/div&gt;
+&lt;span class=&#34;author-description&#34;&gt;Welcome to Typological Atlas of languages of Guatemala&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Following project aims to demonstrate geographical distribution of specific typological features of the languages of Guatemala.
+Language specific information gathered from descriptive materials (such as reference grammars) is visualized in an unified via maps.&lt;/p&gt;
+
+&lt;p&gt;Maps represent language distribution across villages and municipalities, based on information provided by National Institute of Statistics of Guatemala (Instituto Nacional de Estadística 2011).&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe src=&#34;https://sasha-kozhukhar.github.io/guatemala_atlas/maps/guatemala.html&#34; width = &#34;100%&#34; height = &#34;600px&#34;&gt;&lt;/iframe&gt;
+&lt;div align=&#34;right&#34;&gt;&lt;a href=&#34;https://sasha-kozhukhar.github.io/guatemala_atlas/maps/guatemala.html&#34; target=&#34;_blank&#34; class=&#34;button&#34;&gt;fullscreen&lt;/a&gt;&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&#34;author-description&#34;&gt;How to use&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Using Atlas requires a browser with Javascript enabled.&lt;/li&gt;
+&lt;li&gt;You can find the typological features through the item «Categories» in the sidebar.&lt;/li&gt;
+&lt;li&gt;All maps are provided with the fullscreen view via button «&lt;span class=&#34;scaps&#34;&gt;FULLSCREEN&lt;/span&gt;» under each map.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span class=&#34;author-description&#34;&gt;Dataset&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;/div&gt;
 &lt;/body&gt;&lt;/p&gt;
 </description>
     </item>
