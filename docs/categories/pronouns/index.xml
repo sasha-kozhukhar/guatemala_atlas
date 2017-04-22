@@ -1,12 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Atlas of languages of Guatemala</title>
+    <title>Pronouns on Atlas of languages of Guatemala</title>
     <link>https://sasha-kozhukhar.github.io/guatemala_atlas/categories/pronouns/index.xml</link>
-    <description>Recent content on Atlas of languages of Guatemala</description>
+    <description>Recent content in Pronouns on Atlas of languages of Guatemala</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <atom:link href="https://sasha-kozhukhar.github.io/guatemala_atlas/categories/pronouns/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Circumfixal Personal Pronouns</title>
+      <link>https://sasha-kozhukhar.github.io/guatemala_atlas/post/circumfixes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sasha-kozhukhar.github.io/guatemala_atlas/post/circumfixes/</guid>
+      <description>&lt;p&gt;&lt;head&gt;
+&lt;style type=&#34;text/css&#34;&gt;
+    .padding {
+        padding: 30px;
+    }
+&lt;/style&gt;
+&lt;/head&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;body&gt;
+Presence of circumfixal personal pronouns
+&lt;div class=&#34;padding&#34;&gt;
+&lt;iframe src=&#34;https://sasha-kozhukhar.github.io/guatemala_atlas/maps/circumfixes.html&#34; width = &#34;100%&#34; height = &#34;600px&#34;&gt;&lt;/iframe&gt;
+&lt;div align=&#34;right&#34;&gt;&lt;a href=&#34;https://sasha-kozhukhar.github.io/guatemala_atlas/maps/circumfixes.html&#34; target=&#34;_blank&#34; class=&#34;button&#34;&gt;fullscreen&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/body&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Clusivity</title>
@@ -27,6 +51,30 @@ Clusivity distinction in first person plural pronouns
 &lt;div class=&#34;padding&#34;&gt;
 &lt;iframe src=&#34;https://sasha-kozhukhar.github.io/guatemala_atlas/maps/clusiveness.html&#34; width = &#34;100%&#34; height = &#34;600px&#34;&gt;&lt;/iframe&gt;
 &lt;div align=&#34;right&#34;&gt;&lt;a href=&#34;https://sasha-kozhukhar.github.io/guatemala_atlas/maps/clusiveness.html&#34; target=&#34;_blank&#34; class=&#34;button&#34;&gt;fullscreen&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/body&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Formal You</title>
+      <link>https://sasha-kozhukhar.github.io/guatemala_atlas/post/formal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sasha-kozhukhar.github.io/guatemala_atlas/post/formal/</guid>
+      <description>&lt;p&gt;&lt;head&gt;
+&lt;style type=&#34;text/css&#34;&gt;
+    .padding {
+        padding: 30px;
+    }
+&lt;/style&gt;
+&lt;/head&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;body&gt;
+Distinction between formal and informal second person.
+&lt;div class=&#34;padding&#34;&gt;
+&lt;iframe src=&#34;https://sasha-kozhukhar.github.io/guatemala_atlas/maps/formal_person.html&#34; width = &#34;100%&#34; height = &#34;600px&#34;&gt;&lt;/iframe&gt;
+&lt;div align=&#34;right&#34;&gt;&lt;a href=&#34;https://sasha-kozhukhar.github.io/guatemala_atlas/maps/formal_person.html&#34; target=&#34;_blank&#34; class=&#34;button&#34;&gt;fullscreen&lt;/a&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/body&gt;&lt;/p&gt;
 </description>

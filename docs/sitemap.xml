@@ -6,7 +6,8 @@
   </url>
   
   <url>
-    <loc>https://sasha-kozhukhar.github.io/guatemala_atlas/</loc>
+    <loc>https://sasha-kozhukhar.github.io/guatemala_atlas/categories/agent-focus/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -18,7 +19,35 @@
   </url>
   
   <url>
+    <loc>https://sasha-kozhukhar.github.io/guatemala_atlas/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sasha-kozhukhar.github.io/guatemala_atlas/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sasha-kozhukhar.github.io/guatemala_atlas/post/circumfixes/</loc>
+  </url>
+  
+  <url>
     <loc>https://sasha-kozhukhar.github.io/guatemala_atlas/post/clusivity/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sasha-kozhukhar.github.io/guatemala_atlas/post/formal/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sasha-kozhukhar.github.io/guatemala_atlas/post/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sasha-kozhukhar.github.io/guatemala_atlas/categories/pronouns/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
