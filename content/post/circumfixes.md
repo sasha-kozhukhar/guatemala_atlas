@@ -1,5 +1,5 @@
 +++
-title = "Circumfixal Personal Pronouns"
+title = "Circumfixal Pronouns"
 categories = ["Pronouns"]
 slug = "circumfixes"
 
