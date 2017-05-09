@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Post-rsses on Atlas of languages of Guatemala</title>
+    <title>Posts on Atlas of languages of Guatemala</title>
     <link>https://sasha-kozhukhar.github.io/guatemala_atlas/post/index.xml</link>
-    <description>Recent content in Post-rsses on Atlas of languages of Guatemala</description>
+    <description>Recent content in Posts on Atlas of languages of Guatemala</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <atom:link href="https://sasha-kozhukhar.github.io/guatemala_atlas/post/index.xml" rel="self" type="application/rss+xml" />
@@ -141,7 +141,12 @@ Distinction between formal and informal second person.
 &lt;/head&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;body&gt;
-Position of the set A cross-reference pronouns
+Position of the set A cross-reference pronouns&lt;/p&gt;
+
+&lt;p&gt;Following the tradition of Mayan language descriptions, ergative pronouns that are cross-referenced on the predicate are called here set A.
+&lt;/br&gt;Morphological status of these pronouns is highly debated and differs from clitic to affix according to the views of individual describing this language. Not to contribute to this mess, this question is omitted. Only position of pronoun relative to predicate stem is noted.
+&lt;/br&gt;There are three values marked: &lt;i&gt;praeposition&lt;/i&gt; (latin name is taken not to confuse place with adposition) designates cases where every pronoun in paradigm is placed preverbally, &lt;i&gt;mixed&lt;/i&gt; marks cases where there are several places to put different pronouns.
+&lt;/br&gt;Garifuna is marked with &lt;i&gt;not applicable&lt;/i&gt; because the language is accusative and notion of set A cannot be applied to its description.
 &lt;div class=&#34;padding&#34;&gt;
 &lt;iframe src=&#34;https://sasha-kozhukhar.github.io/guatemala_atlas/maps/setA_position.html&#34; width = &#34;100%&#34; height = &#34;600px&#34;&gt;&lt;/iframe&gt;
 &lt;div align=&#34;right&#34;&gt;&lt;a href=&#34;https://sasha-kozhukhar.github.io/guatemala_atlas/maps/setA_position.html&#34; target=&#34;_blank&#34; class=&#34;button&#34;&gt;fullscreen&lt;/a&gt;&lt;/div&gt;
