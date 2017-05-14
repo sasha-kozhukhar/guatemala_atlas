@@ -1,7 +1,7 @@
 +++
-title = "Formal You"
+title = "Polite pronouns"
 categories = ["Pronouns"]
-slug = "formal"
+slug = "politeness"
 
 +++
 
