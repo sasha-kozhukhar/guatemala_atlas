@@ -55,6 +55,29 @@
     </item>
     
     <item>
+      <title>Aspect-based ergative split</title>
+      <link>https://sasha-kozhukhar.github.io/guatemala_atlas/post/split-aspect/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sasha-kozhukhar.github.io/guatemala_atlas/post/split-aspect/</guid>
+      <description>&lt;p&gt;&lt;head&gt;
+&lt;style type=&#34;text/css&#34;&gt;
+    .padding {
+        padding: 30px;
+    }
+&lt;/style&gt;
+&lt;/head&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;body&gt;
+&lt;div class=&#34;padding&#34;&gt;
+&lt;iframe src=&#34;https://sasha-kozhukhar.github.io/guatemala_atlas/maps/split_aspect.html&#34; width = &#34;100%&#34; height = &#34;600px&#34;&gt;&lt;/iframe&gt;
+&lt;div align=&#34;right&#34;&gt;&lt;a href=&#34;https://sasha-kozhukhar.github.io/guatemala_atlas/maps/split_aspect.html&#34; target=&#34;_blank&#34; class=&#34;button&#34;&gt;fullscreen&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/body&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Clusivity</title>
       <link>https://sasha-kozhukhar.github.io/guatemala_atlas/post/clusivity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -73,6 +96,52 @@ Clusivity distinction in first person plural pronouns
 &lt;div class=&#34;padding&#34;&gt;
 &lt;iframe src=&#34;https://sasha-kozhukhar.github.io/guatemala_atlas/maps/clusiveness.html&#34; width = &#34;100%&#34; height = &#34;600px&#34;&gt;&lt;/iframe&gt;
 &lt;div align=&#34;right&#34;&gt;&lt;a href=&#34;https://sasha-kozhukhar.github.io/guatemala_atlas/maps/clusiveness.html&#34; target=&#34;_blank&#34; class=&#34;button&#34;&gt;fullscreen&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/body&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ergative split after focused adverb</title>
+      <link>https://sasha-kozhukhar.github.io/guatemala_atlas/post/split-adverb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sasha-kozhukhar.github.io/guatemala_atlas/post/split-adverb/</guid>
+      <description>&lt;p&gt;&lt;head&gt;
+&lt;style type=&#34;text/css&#34;&gt;
+    .padding {
+        padding: 30px;
+    }
+&lt;/style&gt;
+&lt;/head&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;body&gt;
+&lt;div class=&#34;padding&#34;&gt;
+&lt;iframe src=&#34;https://sasha-kozhukhar.github.io/guatemala_atlas/maps/split_adverb.html&#34; width = &#34;100%&#34; height = &#34;600px&#34;&gt;&lt;/iframe&gt;
+&lt;div align=&#34;right&#34;&gt;&lt;a href=&#34;https://sasha-kozhukhar.github.io/guatemala_atlas/maps/split_adverb.html&#34; target=&#34;_blank&#34; class=&#34;button&#34;&gt;fullscreen&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/body&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ergative split in subordinate clauses</title>
+      <link>https://sasha-kozhukhar.github.io/guatemala_atlas/post/split-sub/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sasha-kozhukhar.github.io/guatemala_atlas/post/split-sub/</guid>
+      <description>&lt;p&gt;&lt;head&gt;
+&lt;style type=&#34;text/css&#34;&gt;
+    .padding {
+        padding: 30px;
+    }
+&lt;/style&gt;
+&lt;/head&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;body&gt;
+&lt;div class=&#34;padding&#34;&gt;
+&lt;iframe src=&#34;https://sasha-kozhukhar.github.io/guatemala_atlas/maps/split_subordinate.html&#34; width = &#34;100%&#34; height = &#34;600px&#34;&gt;&lt;/iframe&gt;
+&lt;div align=&#34;right&#34;&gt;&lt;a href=&#34;https://sasha-kozhukhar.github.io/guatemala_atlas/maps/split_subordinate.html&#34; target=&#34;_blank&#34; class=&#34;button&#34;&gt;fullscreen&lt;/a&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/body&gt;&lt;/p&gt;
 </description>
@@ -287,75 +356,6 @@ Position of the set A cross-reference pronouns&lt;/p&gt;
 &lt;div class=&#34;padding&#34;&gt;
 &lt;iframe src=&#34;https://sasha-kozhukhar.github.io/guatemala_atlas/maps/setA_position.html&#34; width = &#34;100%&#34; height = &#34;600px&#34;&gt;&lt;/iframe&gt;
 &lt;div align=&#34;right&#34;&gt;&lt;a href=&#34;https://sasha-kozhukhar.github.io/guatemala_atlas/maps/setA_position.html&#34; target=&#34;_blank&#34; class=&#34;button&#34;&gt;fullscreen&lt;/a&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;/body&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Set B Pronouns</title>
-      <link>https://sasha-kozhukhar.github.io/guatemala_atlas/post/setB/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://sasha-kozhukhar.github.io/guatemala_atlas/post/setB/</guid>
-      <description>&lt;p&gt;&lt;head&gt;
-&lt;style type=&#34;text/css&#34;&gt;
-    .padding {
-        padding: 30px;
-    }
-&lt;/style&gt;
-&lt;/head&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;body&gt;
-&lt;div&gt;
-&lt;iframe src=&#34;https://sasha-kozhukhar.github.io/guatemala_atlas/maps/setB_position.html&#34; width = &#34;100%&#34; height = &#34;600px&#34;&gt;&lt;/iframe&gt;
-&lt;div align=&#34;right&#34;&gt;&lt;a href=&#34;https://sasha-kozhukhar.github.io/guatemala_atlas/maps/setB_position.html&#34; target=&#34;_blank&#34; class=&#34;button&#34;&gt;fullscreen&lt;/a&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;/body&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Type of nominal classifiers</title>
-      <link>https://sasha-kozhukhar.github.io/guatemala_atlas/post/class_type/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://sasha-kozhukhar.github.io/guatemala_atlas/post/class_type/</guid>
-      <description>&lt;p&gt;&lt;head&gt;
-&lt;style type=&#34;text/css&#34;&gt;
-    .padding {
-        padding: 30px;
-    }
-&lt;/style&gt;
-&lt;/head&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;body&gt;
-&lt;div class=&#34;padding&#34;&gt;
-&lt;iframe src=&#34;https://sasha-kozhukhar.github.io/guatemala_atlas/maps/class_type.html&#34; width = &#34;100%&#34; height = &#34;600px&#34;&gt;&lt;/iframe&gt;
-&lt;div align=&#34;right&#34;&gt;&lt;a href=&#34;https://sasha-kozhukhar.github.io/guatemala_atlas/maps/class_type.html&#34; target=&#34;_blank&#34; class=&#34;button&#34;&gt;fullscreen&lt;/a&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;/body&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Type of personal nominal classifiers</title>
-      <link>https://sasha-kozhukhar.github.io/guatemala_atlas/post/class_personal/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://sasha-kozhukhar.github.io/guatemala_atlas/post/class_personal/</guid>
-      <description>&lt;p&gt;&lt;head&gt;
-&lt;style type=&#34;text/css&#34;&gt;
-    .padding {
-        padding: 30px;
-    }
-&lt;/style&gt;
-&lt;/head&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;body&gt;
-&lt;div class=&#34;padding&#34;&gt;
-&lt;iframe src=&#34;https://sasha-kozhukhar.github.io/guatemala_atlas/maps/class_personal.html&#34; width = &#34;100%&#34; height = &#34;600px&#34;&gt;&lt;/iframe&gt;
-&lt;div align=&#34;right&#34;&gt;&lt;a href=&#34;https://sasha-kozhukhar.github.io/guatemala_atlas/maps/class_personal.html&#34; target=&#34;_blank&#34; class=&#34;button&#34;&gt;fullscreen&lt;/a&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/body&gt;&lt;/p&gt;
 </description>

@@ -2,8 +2,8 @@
 slug = "clusivity"
 title = "Clusivity"
 categories = ["Pronouns"]
-
 +++
+
 <head>
 <style type="text/css">
 	.padding {

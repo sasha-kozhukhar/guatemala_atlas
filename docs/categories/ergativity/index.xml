@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ergativity on Atlas of languages of Guatemala</title>
+    <link>https://sasha-kozhukhar.github.io/guatemala_atlas/categories/ergativity/index.xml</link>
+    <description>Recent content in Ergativity on Atlas of languages of Guatemala</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://sasha-kozhukhar.github.io/guatemala_atlas/categories/ergativity/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Aspect-based ergative split</title>
+      <link>https://sasha-kozhukhar.github.io/guatemala_atlas/post/split-aspect/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sasha-kozhukhar.github.io/guatemala_atlas/post/split-aspect/</guid>
+      <description>&lt;p&gt;&lt;head&gt;
+&lt;style type=&#34;text/css&#34;&gt;
+    .padding {
+        padding: 30px;
+    }
+&lt;/style&gt;
+&lt;/head&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;body&gt;
+&lt;div class=&#34;padding&#34;&gt;
+&lt;iframe src=&#34;https://sasha-kozhukhar.github.io/guatemala_atlas/maps/split_aspect.html&#34; width = &#34;100%&#34; height = &#34;600px&#34;&gt;&lt;/iframe&gt;
+&lt;div align=&#34;right&#34;&gt;&lt;a href=&#34;https://sasha-kozhukhar.github.io/guatemala_atlas/maps/split_aspect.html&#34; target=&#34;_blank&#34; class=&#34;button&#34;&gt;fullscreen&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/body&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ergative split after focused adverb</title>
+      <link>https://sasha-kozhukhar.github.io/guatemala_atlas/post/split-adverb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sasha-kozhukhar.github.io/guatemala_atlas/post/split-adverb/</guid>
+      <description>&lt;p&gt;&lt;head&gt;
+&lt;style type=&#34;text/css&#34;&gt;
+    .padding {
+        padding: 30px;
+    }
+&lt;/style&gt;
+&lt;/head&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;body&gt;
+&lt;div class=&#34;padding&#34;&gt;
+&lt;iframe src=&#34;https://sasha-kozhukhar.github.io/guatemala_atlas/maps/split_adverb.html&#34; width = &#34;100%&#34; height = &#34;600px&#34;&gt;&lt;/iframe&gt;
+&lt;div align=&#34;right&#34;&gt;&lt;a href=&#34;https://sasha-kozhukhar.github.io/guatemala_atlas/maps/split_adverb.html&#34; target=&#34;_blank&#34; class=&#34;button&#34;&gt;fullscreen&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/body&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ergative split in subordinate clauses</title>
+      <link>https://sasha-kozhukhar.github.io/guatemala_atlas/post/split-sub/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sasha-kozhukhar.github.io/guatemala_atlas/post/split-sub/</guid>
+      <description>&lt;p&gt;&lt;head&gt;
+&lt;style type=&#34;text/css&#34;&gt;
+    .padding {
+        padding: 30px;
+    }
+&lt;/style&gt;
+&lt;/head&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;body&gt;
+&lt;div class=&#34;padding&#34;&gt;
+&lt;iframe src=&#34;https://sasha-kozhukhar.github.io/guatemala_atlas/maps/split_subordinate.html&#34; width = &#34;100%&#34; height = &#34;600px&#34;&gt;&lt;/iframe&gt;
+&lt;div align=&#34;right&#34;&gt;&lt;a href=&#34;https://sasha-kozhukhar.github.io/guatemala_atlas/maps/split_subordinate.html&#34; target=&#34;_blank&#34; class=&#34;button&#34;&gt;fullscreen&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/body&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
