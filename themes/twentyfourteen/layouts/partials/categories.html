@@ -1,18 +1,21 @@
 <aside id="categories-3" class="widget widget_categories">
 	
 	<h1 class="widget-title">Categories</h1>
-
-	<ul>
+	<nav role="navigation" class="navigation site-navigation secondary-navigation">
+	<div class="menu-sidebar-menu-container">
+	<ul class="menu">
 		{{ $baseurl := .Site.BaseURL }}
 		{{ range $key, $value := .Site.Taxonomies.categories }}
 		
-		<li class="cat-item">
-			<a href="{{ $baseurl }}/categories/{{ $key | urlize }}">{{ $key | title }}</a>&emsp;<a class="unhidevalues">[+]</a>
-			<ul class="hiddenvalues">{{ range $value }} <li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>
+		<li class="cat-item menu-item menu-item-has-children">
+			<a href="{{ $baseurl }}/categories/{{ $key | urlize }}">{{ $key | title }}</a>&emsp;
+			<ul class="sub-menu">{{ range $value }} <li class="menu-item"><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>
    {{ end }}</ul>
 		</li>
 
 		{{ end }}
 
 	</ul>
+	</div>
+	</nav>
 </aside>
