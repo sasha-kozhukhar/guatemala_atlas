@@ -26,7 +26,7 @@ Maps represent language distribution across villages and municipalities, based o
 <span class="author-description">How to use</span>
 ___
 * Using Atlas requires a browser with Javascript enabled.
-* You can find the typological features through the item «Categories» in the sidebar. 
+* You can find the typological features through the item «<span class="scaps">Categories</span>» in the sidebar. 
 * All maps are provided with the fullscreen view via button «<span class="scaps">FULLSCREEN</span>» under each map.
 
 <span class="author-description">Dataset</span>
