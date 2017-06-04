@@ -4,3 +4,5 @@ languageCode = "en-us"
 publishDir = "docs"
 theme = "twentyfourteen"
 
+[blackfriday]
+  plainIDAnchors = true

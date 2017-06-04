@@ -3,7 +3,6 @@ title = "Contacts"
 
 +++
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
-
 <table border="0">
 <tr>
 <td>
