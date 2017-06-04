@@ -4486,3 +4486,8 @@ td, th {
 	text-align: right;
 	font-size: 0.84em;
 }
+
+.language {
+	color: #2B2B2B;
+	text-decoration: none;
+}
