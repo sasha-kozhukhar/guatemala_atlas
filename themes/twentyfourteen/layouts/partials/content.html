@@ -24,6 +24,8 @@
 		{{ .Content }}
 	</div><!-- .entry-content -->
 
+	{{ partial "disqus.html" . }}
+
 	<footer class="entry-meta">
 		<span class="tag-links">		
 			{{ range .Params.tags }}
