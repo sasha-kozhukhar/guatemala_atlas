@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Post-rsses on Atlas of languages of Guatemala</title>
+    <title>Posts on Atlas of languages of Guatemala</title>
     <link>https://sasha-kozhukhar.github.io/guatemala_atlas/post/index.xml</link>
-    <description>Recent content in Post-rsses on Atlas of languages of Guatemala</description>
+    <description>Recent content in Posts on Atlas of languages of Guatemala</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 08 May 2017 13:14:46 +0300</lastBuildDate>
@@ -196,6 +196,49 @@ Clusivity distinction in first person plural pronouns
 &lt;/head&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;body&gt;
+NOMINAL or NOUN CLASSIFIERS divide nouns into several categories according to their essence. Noun classifiers correlate with inherent semantic characteristics of nouns, such as &lt;i&gt;animal&lt;/i&gt;, &lt;i&gt;human&lt;/i&gt;, &lt;i&gt;plant&lt;/i&gt;; form, shape and structure of the referent. From example below from Chuj it can be seen that there are different classifiers for &lt;i&gt;tortilla&lt;/i&gt; and &lt;i&gt;Maria&lt;/i&gt; (maize and woman respectively).
+&lt;/br&gt;&lt;/p&gt;
+
+&lt;div class=&#34;gloss&#34;&gt;
+(1) Chuj (Buenrostro et al. 1989: 1230)
+&lt;/br&gt;
+&lt;table cellspacing=&#34;0&#34; cellpadding=&#34;0&#34;&gt;
+&lt;tr&gt;&lt;td&gt;Ø-s-woʔ&lt;/td&gt;&lt;td&gt;ixim&lt;/td&gt;&lt;td&gt;waʔil&lt;/td&gt;&lt;td&gt;ix&lt;/td&gt;&lt;td&gt;malin&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;span class=&#34;scaps&#34;&gt;3abs-3sg.erg&lt;/span&gt;-make&lt;/td&gt;&lt;td&gt;&lt;span class=&#34;scaps&#34;&gt;cl:maize&lt;/span&gt;&lt;/td&gt;&lt;td&gt;tortillas&lt;/td&gt;&lt;td&gt;&lt;span class=&#34;scaps&#34;&gt;cl:woman&lt;/span&gt;&lt;/td&gt;&lt;td&gt;Maria&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;‘Maria is making tortillas’&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Properties of noun classifiers are (according to (Aikhenvald 2000: 81):
+&lt;/br&gt;(i) The choice of a noun classifier is based on semantics. Every noun in a language does not necessarily take a noun classifier.
+&lt;/br&gt;(ii) Languages may allow the cooccurrence of several noun classifiers within one noun phrase.
+&lt;/br&gt;(iii) One noun can be used with different classifiers, with a change in meaning.
+&lt;/br&gt;(iv) The size of the inventory of noun classifiers can vary, from a fairly small closed set to a fairly large open set. Consequently, noun classifiers can be grammaticalized to varying extents.
+&lt;/br&gt;(v) Noun classifiers are often used anaphorically; they may grammaticalize as markers of syntactic functions.&lt;/p&gt;
+
+&lt;p&gt;&lt;/br&gt;In Mayan languages source of the majority of nominal classifiers is transparently linked to the nouns with the same meaning (see Table 1).
+&lt;/br&gt;
+&lt;table style=&#34;width:40%&#34; cellspacing=&#34;0&#34; cellpadding=&#34;0&#34;&gt;
+&lt;caption&gt;Table 1. Classifier system of Chuj (Hopkins 2012: 413)&lt;/caption&gt;
+&lt;tr&gt;&lt;td&gt;&lt;b&gt;Classifier&lt;/b&gt;&lt;/td&gt;&lt;td&gt;&lt;b&gt;Meaning&lt;/b&gt;&lt;/td&gt;&lt;td&gt;&lt;b&gt;Source Noun&lt;/b&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;winh&lt;/td&gt;&lt;td&gt;male&lt;/td&gt;&lt;td&gt;&lt;i&gt;winak &lt;/i&gt;&amp;lsquo;man&amp;rsquo;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;’ix&lt;/td&gt;&lt;td&gt;female&lt;/td&gt;&lt;td&gt;&lt;i&gt;’ix &lt;/i&gt;&amp;lsquo;woman&amp;rsquo;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;nok’&lt;/td&gt;&lt;td&gt;animal&lt;/td&gt;&lt;td&gt;&lt;i&gt;nok’ &lt;/i&gt;&amp;lsquo;animal&amp;rsquo;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;te(’)&lt;/td&gt;&lt;td&gt;wood&lt;/td&gt;&lt;td&gt;&lt;i&gt;te’ &lt;/i&gt;&amp;lsquo;tree&amp;rsquo;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;’ixim&lt;/td&gt;&lt;td&gt;maize, grain&lt;/td&gt;&lt;td&gt;&lt;i&gt;’ixim &lt;/i&gt;&amp;lsquo;maize&amp;rsquo;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;ch’anh&lt;/td&gt;&lt;td&gt;vine&lt;/td&gt;&lt;td&gt;&lt;i&gt;ch’anh &lt;/i&gt;&amp;lsquo;vine, rope&amp;rsquo;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;’anh&lt;/td&gt;&lt;td&gt;herb, plant&lt;/td&gt;&lt;td&gt;&lt;i&gt;’anh &lt;/i&gt;&amp;lsquo;plant&amp;rsquo;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;lum&lt;/td&gt;&lt;td&gt;earth&lt;/td&gt;&lt;td&gt;&lt;i&gt;lu’um &lt;/i&gt;&amp;lsquo;earth, land&amp;rsquo;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;k’en&lt;/td&gt;&lt;td&gt;stone&lt;/td&gt;&lt;td&gt;&lt;i&gt;k’en &lt;/i&gt;&amp;lsquo;stone&amp;rsquo;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;ha(’)&lt;/td&gt;&lt;td&gt;liquid&lt;/td&gt;&lt;td&gt;&lt;i&gt;ha’ &lt;/i&gt;&amp;lsquo;water&amp;rsquo;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;k’apak&lt;/td&gt;&lt;td&gt;cloth&lt;/td&gt;&lt;td&gt;&lt;i&gt;k’apak &lt;/i&gt;&amp;lsquo;cloth&amp;rsquo;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;’atz’am&lt;/td&gt;&lt;td&gt;salt&lt;/td&gt;&lt;td&gt;&lt;i&gt;’atz’am &lt;/i&gt;&amp;lsquo;salt&amp;rsquo;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;k’inal&lt;/td&gt;&lt;td&gt;rain&lt;/td&gt;&lt;td&gt;&lt;i&gt;k’inh &lt;/i&gt;&amp;lsquo;day (obsolete)&amp;rsquo;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;yap’il&lt;/td&gt;&lt;td&gt;illness&lt;/td&gt;&lt;td&gt;&lt;i&gt;yap’il &lt;/i&gt;&amp;lsquo;illness&amp;rsquo;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;nayle(h)&lt;/td&gt;&lt;td&gt;sheet plastic&lt;/td&gt;&lt;td&gt;&lt;i&gt;nayleh &lt;/i&gt;&amp;lsquo;nylon&amp;rsquo;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+According to (Campbell et al. 1986: 550) noun classifiers cannot be considered diagnostic areal trait, because, on one hand, they are distributed too chaotically across the Mesoamerica, on the other and, classifiers can emerge in languages independently. Nevertheless, characteristics of systems of classifiers in Guatemalan languages enable scholars to introduce micro areas: for example, Cuchumatan (Hopkins 2012: 419).
+&lt;/br&gt;Current map is dedicated to number of classifiers. Their semantics and formal properties are presented in other features.
 &lt;div class=&#34;padding&#34;&gt;
 &lt;iframe src=&#34;https://sasha-kozhukhar.github.io/guatemala_atlas/maps/class_num.html&#34; width = &#34;100%&#34; height = &#34;600px&#34;&gt;&lt;/iframe&gt;
 &lt;div align=&#34;right&#34;&gt;&lt;a href=&#34;https://sasha-kozhukhar.github.io/guatemala_atlas/maps/class_num.html&#34; target=&#34;_blank&#34; class=&#34;button&#34;&gt;fullscreen&lt;/a&gt;&lt;/div&gt;
