@@ -3,6 +3,7 @@ title = "Atlas of languages of Guatemala"
 languageCode = "en-us"
 publishDir = "docs"
 theme = "twentyfourteen"
+disqusShortname = "guatatlas"
 
 [blackfriday]
   plainIDAnchors = true
