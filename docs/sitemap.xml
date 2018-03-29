@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://sasha-kozhukhar.github.io/guatemala_atlas/</loc>
+    <lastmod>2017-05-08T13:14:46+03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sasha-kozhukhar.github.io/guatemala_atlas/post/test/</loc>
     <lastmod>2017-05-08T13:14:46+03:00</lastmod>
   </url>
   
   <url>
     <loc>https://sasha-kozhukhar.github.io/guatemala_atlas/</loc>
-  </url>
-  
-  <url>
-    <loc>https://sasha-kozhukhar.github.io/guatemala_atlas/categories/agent-focus/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -28,23 +28,7 @@
   </url>
   
   <url>
-    <loc>https://sasha-kozhukhar.github.io/guatemala_atlas/</loc>
-    <lastmod>2017-05-08T13:14:46+03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://sasha-kozhukhar.github.io/guatemala_atlas/bibliography/</loc>
-  </url>
-  
-  <url>
-    <loc>https://sasha-kozhukhar.github.io/guatemala_atlas/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sasha-kozhukhar.github.io/guatemala_atlas/categories/classifiers/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -61,11 +45,6 @@
   
   <url>
     <loc>https://sasha-kozhukhar.github.io/guatemala_atlas/post/split-sub/</loc>
-  </url>
-  
-  <url>
-    <loc>https://sasha-kozhukhar.github.io/guatemala_atlas/categories/ergativity/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -101,23 +80,7 @@
   </url>
   
   <url>
-    <loc>https://sasha-kozhukhar.github.io/guatemala_atlas/categories/phonology/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://sasha-kozhukhar.github.io/guatemala_atlas/post/politeness/</loc>
-  </url>
-  
-  <url>
-    <loc>https://sasha-kozhukhar.github.io/guatemala_atlas/post/</loc>
-    <lastmod>2017-05-08T13:14:46+03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sasha-kozhukhar.github.io/guatemala_atlas/categories/pronouns/</loc>
-    <priority>0</priority>
   </url>
   
   <url>

@@ -32,6 +32,8 @@ ___
 <span class="author-description">Dataset</span>
 ___
 
-
+<span class="author-description">lingtypology for R</span>
+___
+Maps for the atlas were created with the help of <a href="https://github.com/ropensci/lingtypology" target="_blank">lingtypology</a> tool.
 </div>
 </body>
