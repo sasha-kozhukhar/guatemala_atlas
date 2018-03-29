@@ -10,7 +10,7 @@ title = "Contacts"
 </td>
 <td>
 Elizaveta Vostokova<br>
-MA Student at NRU HSE<br>
+Teaching Assistant at NRU HSE<br>
 <a href="https://github.com/lizushka" target="_blank"><i class="fa fa-github"></i></a>&nbsp;·&nbsp; 
 <a href="https://t.me/lizushk" target="_blank"><i class="fa fa-paper-plane"></i></a>
 </td>
@@ -21,7 +21,7 @@ MA Student at NRU HSE<br>
 </td>
 <td>
 Alexandra Kozhukhar<br>
-MA Student at NRU HSE<br>
+Postgraduate at NRU HSE<br>
 <a href="https://github.com/sasha-kozhukhar" target="_blank"><i class="fa fa-github"></i></a>&nbsp;·&nbsp;
 <a href="https://t.me/kozhukhar" target="_blank"><i class="fa fa-paper-plane"></i></a>
 </td>
