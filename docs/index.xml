@@ -61,6 +61,8 @@ Language specific information gathered from descriptive materials (such as refer
 
 &lt;hr /&gt;
 
+&lt;p&gt;All datasets are available online: &lt;a href=&#34;https://github.com/sasha-kozhukhar/guatemala_atlas/blob/master/guatemala_features.csv&#34; target=&#34;_blank&#34;&gt;feature dataset&lt;/a&gt; and &lt;a href=&#34;https://github.com/sasha-kozhukhar/guatemala_atlas/blob/master/guatemala_locations.csv&#34; target=&#34;_blank&#34;&gt;location dataset&lt;/a&gt;.&lt;/p&gt;
+
 &lt;p&gt;&lt;span class=&#34;author-description&#34;&gt;lingtypology for R&lt;/span&gt;&lt;/p&gt;
 
 &lt;hr /&gt;

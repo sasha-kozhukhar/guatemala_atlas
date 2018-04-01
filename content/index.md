@@ -31,6 +31,7 @@ ___
 
 <span class="author-description">Dataset</span>
 ___
+All datasets are available online: <a href="https://github.com/sasha-kozhukhar/guatemala_atlas/blob/master/guatemala_features.csv" target="_blank">feature dataset</a> and <a href="https://github.com/sasha-kozhukhar/guatemala_atlas/blob/master/guatemala_locations.csv" target="_blank">location dataset</a>.
 
 <span class="author-description">lingtypology for R</span>
 ___
